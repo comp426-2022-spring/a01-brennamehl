@@ -38,6 +38,6 @@ fs.readFile('./www/index.html', 'utf8', (err,data) => {
         res.end(data) 
     })
     server.listen(port, () => {
-        console.log('Server listening on port ${port}')
+        console.log(`Server listening on port ${port}`)
     })
 })
