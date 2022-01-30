@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a01-brennamehl/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/a01-brennamehl#readme"
+  "homepage": "https://github.com/comp426-2022-spring/a01-brennamehl#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
 }
